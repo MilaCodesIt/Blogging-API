@@ -24,3 +24,8 @@ to code a simple yet robust solution that implements latest trends, technologies
   | GET | Query all elements | This endpoint retrieves all registers from the entry table in database |
   | PUT | Updates a registry by id | This endpoint receives an id ***id*** and updates specified registry in database |
   | POST | Deletes a registry by id | This endpoint receives an id ***id*** and deletes specified registry in database |
+
+
+And that is the first part of this simple project... 
+
+Next stage (Stage 2), add a front end system created with React to retrieve all posts and manage all posts.
